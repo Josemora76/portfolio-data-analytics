@@ -20,6 +20,7 @@ El trabajo incluye preparación y modelado de datos, construcción de reportes v
 ### Documento del proyecto
 
 El repositorio contiene el documento **Descripcion_Procedimiento_Preparacion_Modelado_PowerBI**, donde se presenta el desarrollo realizado y las visualizaciones obtenidas.
+[Ver documento completo del proyecto](Descripcion_Procedimiento_Preparacion_Modelado_PowerBI%20%281%29.pdf)
 
 ## Contacto
 
