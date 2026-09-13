@@ -83,12 +83,12 @@ Integra ventas, inventario y comportamiento de productos.
 
 Incluye:
 
-promedio de ventas;
-estado del inventario;
-participación de ventas por categoría;
-unidades vendidas vs stock por producto;
-ventas totales por tienda;
-filtro interactivo por tienda.
+- promedio de ventas;
+- estado del inventario;
+- participación de ventas por categoría;
+- unidades vendidas vs stock por producto;
+- ventas totales por tienda;
+- filtro interactivo por tienda.
 
 ![Análisis de Ventas e Inventario](images/01_analisis_ventas_inventario.png)
 
@@ -98,12 +98,12 @@ Permite analizar la evolución temporal y la distribución de ventas.
 
 Incluye:
 
-filtros por tienda;
-filtros por categoría;
-rango de fechas;
-evolución de ventas;
-ventas por categoría;
-botón para limpiar filtros.
+- filtros por tienda;
+- filtros por categoría;
+- rango de fechas;
+- evolución de ventas;
+- ventas por categoría;
+- botón para limpiar filtros.
 
 ![Reporte de Ventas](images/02_reporte_ventas.png)
 
@@ -121,11 +121,11 @@ Permite revisar niveles de stock y estado de inventario.
 
 Incluye:
 
-stock actual por producto;
-stock por categoría;
-indicadores de stock bajo y stock total;
-clasificación visual de estado de inventario;
-filtros por categoría y tienda.
+- stock actual por producto;
+- stock por categoría;
+- indicadores de stock bajo y stock total;
+- clasificación visual de estado de inventario;
+- filtros por categoría y tienda.
 
 ![Reporte de Inventario](images/04_reporte_inventario.png)
 
@@ -136,13 +136,13 @@ Resume los principales indicadores del negocio.
 
 Incluye:
 
-ventas totales;
-venta promedio por registro;
-stock bajo;
-ventas por tienda;
-ventas por categoría;
-estado del inventario;
-filtros por categoría, tienda y fecha.
+- ventas totales;
+- venta promedio por registro;
+- stock bajo;
+- ventas por tienda;
+- ventas por categoría;
+- estado del inventario;
+- filtros por categoría, tienda y fecha.
 
 ![Dashboard Ejecutivo](images/05_dashboard_ejecutivo.png)
 
@@ -150,14 +150,14 @@ filtros por categoría, tienda y fecha.
 
 Este proyecto permitió aplicar de manera integrada:
 
-limpieza y estructuración de datos;
-construcción de un modelo dimensional;
-creación de medidas DAX;
-uso de dimensiones para segmentación correcta;
-análisis conjunto de ventas e inventario;
-creación de dashboards operacionales y ejecutivos;
-navegación mediante drill-through;
-diseño de visualizaciones orientadas a toma de decisiones.
+- limpieza y estructuración de datos;
+- construcción de un modelo dimensional;
+- creación de medidas DAX;
+- uso de dimensiones para segmentación correcta;
+- análisis conjunto de ventas e inventario;
+- creación de dashboards operacionales y ejecutivos;
+- navegación mediante drill-through;
+- diseño de visualizaciones orientadas a toma de decisiones.
 
 ## Archivo Power BI
 
