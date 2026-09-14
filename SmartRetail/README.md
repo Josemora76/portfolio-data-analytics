@@ -4,6 +4,10 @@ Proyecto de análisis de ventas e inventario desarrollado en Power BI, orientado
 
 El reporte integra análisis de ventas, stock, desempeño por tienda y categoría, comportamiento por producto e interacción mediante filtros y drill-through.
 
+## Vista general del proyecto
+
+![Resumen del proyecto SmartRetail](images/00_resumen_proyecto_powerbi.png)
+
 ## Objetivo del proyecto
 
 Construir una solución de análisis que permita:
